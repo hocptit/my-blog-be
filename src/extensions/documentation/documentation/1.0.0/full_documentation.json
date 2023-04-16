@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2023-04-16T12:36:11.995Z"
+    "x-generation-date": "2023-04-16T13:15:26.976Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -134,9 +134,6 @@
                   }
                 ],
                 "example": "string or id"
-              },
-              "test": {
-                "type": "string"
               },
               "author": {
                 "oneOf": [
@@ -855,9 +852,6 @@
                                               }
                                             }
                                           }
-                                        },
-                                        "test": {
-                                          "type": "string"
                                         },
                                         "author": {
                                           "type": "object",
@@ -2546,9 +2540,6 @@
                     }
                   }
                 }
-              },
-              "test": {
-                "type": "string"
               },
               "author": {
                 "type": "object",
@@ -3320,9 +3311,6 @@
                                             }
                                           }
                                         },
-                                        "test": {
-                                          "type": "string"
-                                        },
                                         "author": {
                                           "type": "object",
                                           "properties": {
@@ -5010,9 +4998,6 @@
                     }
                   }
                 }
-              },
-              "test": {
-                "type": "string"
               },
               "author": {
                 "type": "object",
@@ -5817,9 +5802,6 @@
                                             }
                                           }
                                         },
-                                        "test": {
-                                          "type": "string"
-                                        },
                                         "author": {
                                           "type": "object",
                                           "properties": {
@@ -7507,9 +7489,6 @@
                     }
                   }
                 }
-              },
-              "test": {
-                "type": "string"
               },
               "author": {
                 "type": "object",
@@ -8281,9 +8260,6 @@
                                             }
                                           }
                                         },
-                                        "test": {
-                                          "type": "string"
-                                        },
                                         "author": {
                                           "type": "object",
                                           "properties": {
@@ -9971,9 +9947,6 @@
                     }
                   }
                 }
-              },
-              "test": {
-                "type": "string"
               },
               "author": {
                 "type": "object",
@@ -11090,9 +11063,6 @@
                                   }
                                 }
                               }
-                            },
-                            "test": {
-                              "type": "string"
                             },
                             "author": {
                               "type": "object",
@@ -12910,9 +12880,6 @@
                                   }
                                 }
                               }
-                            },
-                            "test": {
-                              "type": "string"
                             },
                             "author": {
                               "type": "object",
@@ -14764,9 +14731,6 @@
                                 }
                               }
                             },
-                            "test": {
-                              "type": "string"
-                            },
                             "author": {
                               "type": "object",
                               "properties": {
@@ -16583,9 +16547,6 @@
                                   }
                                 }
                               }
-                            },
-                            "test": {
-                              "type": "string"
                             },
                             "author": {
                               "type": "object",
@@ -24878,9 +24839,6 @@
                                 }
                               }
                             },
-                            "test": {
-                              "type": "string"
-                            },
                             "author": {
                               "type": "object",
                               "properties": {
@@ -27318,9 +27276,6 @@
                                   }
                                 }
                               }
-                            },
-                            "test": {
-                              "type": "string"
                             },
                             "author": {
                               "type": "object",
@@ -29793,9 +29748,6 @@
                                 }
                               }
                             },
-                            "test": {
-                              "type": "string"
-                            },
                             "author": {
                               "type": "object",
                               "properties": {
@@ -32233,9 +32185,6 @@
                                   }
                                 }
                               }
-                            },
-                            "test": {
-                              "type": "string"
                             },
                             "author": {
                               "type": "object",
