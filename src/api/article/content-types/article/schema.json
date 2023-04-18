@@ -45,9 +45,6 @@
         "audios"
       ]
     },
-    "test": {
-      "type": "string"
-    },
     "author": {
       "type": "relation",
       "relation": "manyToOne",

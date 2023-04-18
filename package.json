@@ -11,11 +11,14 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "@_sh/strapi-plugin-ckeditor": "^2.0.4",
+    "@ckeditor/strapi-plugin-ckeditor": "^0.0.7",
     "@strapi/plugin-documentation": "^4.9.1",
     "@strapi/plugin-i18n": "4.9.1",
     "@strapi/plugin-users-permissions": "4.9.1",
     "@strapi/strapi": "4.9.1",
-    "pg": "8.8.0"
+    "pg": "8.8.0",
+    "strapi-chatgpt": "^1.0.2"
   },
   "author": {
     "name": "A Strapi developer"
